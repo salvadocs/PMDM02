@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Salva/AndroidStudioProjects/PMDM02/app/src/main/res/layout/activity_apellido.xml" value="0.3625" />
+        <entry key="..\:/Users/Salva/AndroidStudioProjects/PMDM02/app/src/main/res/layout/activity_edad.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/Salva/AndroidStudioProjects/PMDM02/app/src/main/res/layout/activity_main.xml" value="0.20535714285714285" />
+        <entry key="..\:/Users/Salva/AndroidStudioProjects/PMDM02/app/src/main/res/layout/activity_mostrar.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Salva/AndroidStudioProjects/PMDM02/app/src/main/res/layout/activity_nombre.xml" value="0.35511363636363635" />
+        <entry key="..\:/Users/Salva/AndroidStudioProjects/PMDM02/app/src/main/res/layout/apellido.xml" value="0.3625" />
+        <entry key="..\:/Users/Salva/AndroidStudioProjects/PMDM02/app/src/main/res/layout/edad.xml" value="0.3625" />
+        <entry key="..\:/Users/Salva/AndroidStudioProjects/PMDM02/app/src/main/res/layout/mostrar.xml" value="0.3625" />
+        <entry key="..\:/Users/Salva/AndroidStudioProjects/PMDM02/app/src/main/res/layout/nombre.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

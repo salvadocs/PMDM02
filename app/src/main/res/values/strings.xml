@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PMDM-02</string>
+    <string name="textView">Inicio</string>
+    <string name="button">Nombre</string>
+    <string name="button1">Apellido</string>
+    <string name="button2">Edad</string>
+    <string name="button3">Datos</string>
+    <string name="button4">Salir</string>
+    <string name="textViewgetNombre">Nombre</string>
+    <string name="textViewgetApellido">Apellido</string>
+    <string name="textViewgetEdad">Edad</string>
+    <string name="textViewgetDatos">Datos personales</string>
+    <string name="editTextNumber">Introduce la edad</string>
+    <string name="editTextNombre">Introduce el nombre</string>
+    <string name="editTextApellido">Introduce el apellido</string>
+
+</resources>

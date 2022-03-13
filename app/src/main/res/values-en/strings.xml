@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PMDM-02</string>
+    <string name="textView">Home</string>
+    <string name="button">First name</string>
+    <string name="button1">Last name</string>
+    <string name="button2">Age</string>
+    <string name="button3">Data</string>
+    <string name="button4">Exit</string>
+    <string name="textViewgetNombre">Name</string>
+    <string name="textViewgetApellido">Last name</string>
+    <string name="textViewgetEdad">Age</string>
+    <string name="textViewgetDatos">Personal Data</string>
+    <string name="editTextNumber">Enter the age</string>
+    <string name="editTextNombre">Enter the first name</string>
+    <string name="editTextApellido">Enter the last name</string>
+</resources>
